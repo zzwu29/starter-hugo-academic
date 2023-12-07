@@ -36,7 +36,23 @@ categories:
   - research
 ---
 
+## A custumized matplotlib style (.mplstyle)
+
+You can try [this](./zongzhouwu.mplstyle) matplotlib style.
+
+### Usage
+
+Install scienceplots package [here](https://github.com/garrettj403/SciencePlots), and copy the mplstyle file to its directory.
+
+```python
+import scienceplots
+plt.style.use(['zongzhouwu'])
+```
+
+
 ## Useful links
+
+https://cdn.elifesciences.org/author-guide/tables-colour.pdf
 
 https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html
 

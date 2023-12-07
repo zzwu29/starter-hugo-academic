@@ -32,7 +32,8 @@ abstract: Seamless positioning is critical for mobile robots to achieve ubiquito
 summary: 
 
 tags:
-- Seamless positioning
+- seamless positioning
+- sensor fusion
 featured: false
 
 # links:

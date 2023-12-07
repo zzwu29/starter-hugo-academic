@@ -1,12 +1,12 @@
 ---
-title: viral_eval
+title: traj_eval
 summary: Scripts to quickly calculate absolute/relative pose estimation error
 tags:
   - Tool
-date: '2023-05-08T00:00:00Z'
+date: '2023-12-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/zzwu29/viral_eval'
+external_link: 'https://github.com/zzwu29/traj_eval'
 
 image:
   caption: 
@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Follow
-    url: https://github.com/zzwu29/viral_eval
+    url: https://github.com/zzwu29/traj_eval
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -118,6 +118,7 @@ sections:
       title: Awards
       subtitle: ''
       text: |-
+        * The First-class Scholarship, Wuhan University, 2023
         * The First-class Postgraduate Freshmen Scholarship, Wuhan University, 2023
         * The Second-class Scholarship, Wuhan University, 2022
         * The Third Prize of The 7th Internet+ Competition in Wuhan University, Wuhan University, 2021

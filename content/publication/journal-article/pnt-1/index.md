@@ -27,19 +27,20 @@ publication_types: ["article-journal"]
 publication: "Navigation Positioning and Timing, vol. 10, no. 3, p. 1, May 2023"
 publication_short: ""
 
-# abstract: 
+abstract: With the efficiency improvement of industries in the information era, the traditional human-driven traffic system has gradually failed to meet people's demand for high-efficiency and low-risk traffic services, and the emerging intelligent driving technology has brought opportunities to this field. Nowadays, intelligent driving, represented by autonomous driving, has become a practical and deep crossing technology. Its core modules include high-precision positioning, scene perception, planning, control and other aspects. As the most basic and core functional module in an intelligent driving system, the positioning module needs to be of high-precision, high-availability, and low-latency performance. At present, the multi-sensor fusion technology integrated with high-precision satellite navigation, inertial navigation and environmental perception has become the recognized core means to realize ubiquitous intelligent driving, and accurate and reliable positioning services can be achieved by making full use of the measurement information of on-board sensors. Starting from the sensor technology commonly used in navigation and positioning, we comprehensively review the high-precision positioning technology involved in the current field of intelligent driving, present the mainstream multi-sensor fusion framework based on filtering and factor graph optimization and sort out representative algorithms. Finally, we summarize the current development status of high-precision positioning technology in intelligent driving and prospect the development trend in the future. 
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
 - autonomous driving
+- sensor fusion
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UIWjdPRFD8X4krzWFL6tbCWhEi59uHqFiUR9JKwXRQTG'
+url_pdf: 'https://doi.org/10.19306/j.cnki.2095-8110.2023.03.001'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -23,19 +23,20 @@ publication_types: ["article-journal"]
 publication: "Navigation Positioning and Timing, vol. 10, no. 4, p. 123, Jul. 2023"
 publication_short: ""
 
-# abstract: 
+abstract: Global satellite navigation system(GNSS) can provide all-round and high-precision navigation, positioning and timing services around the world. Absolute positioning technology represented by precise point positioning(PPP) has attracted widespread attention due to its advantages of high accuracy, global consistency and flexible operating range. But the long convergence time limits its use in real-time and fast precision positioning applications. In order to solve the problems, an ultra-wideband(UWB) enhanced PPP method is proposed, which tightly integrates UWB and PPP to improve the positioning accuracy. The experimental results show that in the dynamic scenario, the proposed method reduces the root mean square(RMS) values of the PPP result of the GPS/GAL system by 76.99%, 21.46%,64.53%, and the GPS/GAL/BDS sytems by 69.69%, 37.21% and 61.32%,in east, north and up directions, with their convergence time being shortened by 62.78% and 57.75%, respectively. The evaluation of anchor points number, which also represents geometric configuration, shows that the RMS values of the 3D error of the GPS/GAL and GPS/GAL/BDS systems can be reduced by 67.98% and 59.35%, and the convergence time can be shortened by 76.14% and 62.68% with only 4 anchors, so as to achieve the enhancement effect of the best comprehensive cost and performance.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Seamless positioning
+- seamless positioning
+- GNSS
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJu6LL9TJzd50nQ0Z9A1vva_lkjqe9n_uJ0FS67ZAbGKJdEJVDEwYEDup3FGevnYtC8'
+url_pdf: 'https://doi.org/10.19306/j.cnki.2095-8110.2023.04.012'
 url_code: ''
 url_dataset: ''
 url_poster: ''
