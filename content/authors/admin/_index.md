@@ -115,9 +115,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zzwu29
-  - icon: bilibili
-    icon_pack: fab
-    link: https://space.bilibili.com/383533406
+  # - icon: bilibili
+  #   icon_pack: fab
+  #   link: https://space.bilibili.com/383533406
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
