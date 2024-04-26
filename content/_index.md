@@ -63,8 +63,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Algorithm internship student
-          company: DJI Automotive
+        - title: algorithm development internship
+          company: Automotive Business Unit, DJI
           company_url: 'https://auto.dji.com/'
           company_logo: dji
           location: Shenzhen, mainland China
@@ -74,8 +74,8 @@ sections:
               Responsibilities include:
 
               * GNSS data processing
-              * Sensor fusion algorithm
-              * Automatic test integration
+              * sensor fusion algorithm
+              * automatic test integration
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''

@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student of Engineering
+role: M.Phil. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,15 +25,15 @@ organizations:
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest includes multi-sensor fusion, Global Navigation Satellite System (GNSS), indoor-outdoor seamless positioning, Simultaneous Localization and Mapping (SLAM), and sensor calibration.
+bio: My research interest includes multi-sensor fusion, Global Navigation Satellite System (GNSS), indoor-outdoor seamless positioning, simultaneous localization and mapping (SLAM), and sensor calibration.
 
 # Interests to show in About widget
 interests:
   - Global Navigation Satellite System
-  - Multi-sensor Fusion
-  - Simultaneous Localization and Mapping
-  - Indoor-Outdoor Seamless Positioning
-  - Sensor Calibration
+  - multi-sensor fusion
+  - simultaneous localization and mapping
+  - indoor-outdoor seamless positioning
+  - sensor calibration
 
 # Education to show in About widget
 education:
@@ -133,6 +133,7 @@ highlight_name: true
 ---
 
 I'm a master student from [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
-My research interest includes multi-sensor fusion, Global Navigation Satellite System (GNSS), indoor-outdoor seamless positioning, Simultaneous Localization and Mapping (SLAM), and sensor calibration.
+My research interest includes multi-sensor fusion, Global Navigation Satellite System (GNSS), indoor-outdoor seamless positioning, simultaneous localization and mapping (SLAM), and sensor calibration.
+
 I am very fortunate to be advised by [Prof. Xingxing Li](http://xxli.users.sgg.whu.edu.cn/author/xxli/) of [GREAT Lab](http://igmas.users.sgg.whu.edu.cn/home) from [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
 {style="text-align: justify;"}
