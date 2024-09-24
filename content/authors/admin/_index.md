@@ -17,31 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.Phil. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wuhan University
-    url: https://www.whu.edu.cn/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/english/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest includes multi-sensor fusion, Global Navigation Satellite System (GNSS), indoor-outdoor seamless positioning, simultaneous localization and mapping (SLAM), and sensor calibration.
 
 # Interests to show in About widget
 interests:
-  - Global Navigation Satellite System
+  - odometry and localization
+  - mapping
   - multi-sensor fusion
-  - simultaneous localization and mapping
-  - indoor-outdoor seamless positioning
-  - sensor calibration
+  - autonomous system
 
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in 
-    #   institution: University
-    #   year: 2028
-    - course: M.Eng. in Geodesy and Survey Engineering (in progress)
+    - course: Ph.D. in Mechanical and Automation Engineering
+      institution: The Chinese University of Hong Kong
+      year: in progress
+    - course: M.Eng. in Geodesy and Survey Engineering
       institution: Wuhan University
       year: 2024
     - course: B.Eng. in Navigation Engineering
@@ -96,19 +95,19 @@ social:
   - icon: envelope
     icon_pack: fas
     # link: '/#contact'
-    link: 'mailto:zongzhouwu@whu.edu.cn'
+    link: 'mailto:zzwu@link.cuhk.edu.hk'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: researchgate 
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Zongzhou-Wu
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=dv6MYSYAAAAJ
+  - icon: researchgate 
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Zongzhou-Wu
   - icon: orcid 
     icon_pack: fab
     link: https://orcid.org/0000-0002-3520-8456
@@ -132,8 +131,6 @@ social:
 highlight_name: true
 ---
 
-I'm a master student from [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
-My research interest includes multi-sensor fusion, Global Navigation Satellite System (GNSS), indoor-outdoor seamless positioning, simultaneous localization and mapping (SLAM), and sensor calibration.
+I'm a PhD student from [Unmanned Systems Research Group](http://www.mae.cuhk.edu.hk/~usr/index.html), [Department of Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/), supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/).
 
-I am very fortunate to be advised by [Prof. Xingxing Li](http://xxli.users.sgg.whu.edu.cn/author/xxli/) of [GREAT Lab](http://igmas.users.sgg.whu.edu.cn/home) from [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/).
-{style="text-align: justify;"}
+Prior to that, I received my bachelor's and master's degrees from [School of Geodesy and Geomatics](http://main.sgg.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/), being advised by [Prof. Xingxing Li](http://xxli.users.sgg.whu.edu.cn/author/xxli/).

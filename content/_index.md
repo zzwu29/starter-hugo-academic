@@ -63,7 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: algorithm development internship
+        - title: internship (algorithm)
           company: Automotive Business Unit, DJI
           company_url: 'https://auto.dji.com/'
           company_logo: dji
@@ -118,6 +118,7 @@ sections:
       title: Awards
       subtitle: ''
       text: |-
+        * Outstanding Postgraduate Graduate, Wuhan University, 2024
         * The First-class Scholarship, Wuhan University, 2023
         * The First-class Postgraduate Freshmen Scholarship, Wuhan University, 2023
         * The Second-class Scholarship, Wuhan University, 2022
