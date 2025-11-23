@@ -112,36 +112,36 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: markdown
-    id: awards
-    content:
-      title: Awards
-      subtitle: ''
-      text: |-
-        * Outstanding Postgraduate Graduate, Wuhan University, 2024
-        * The First-class Scholarship, Wuhan University, 2023
-        * The First-class Postgraduate Freshmen Scholarship, Wuhan University, 2023
-        * The Second-class Scholarship, Wuhan University, 2022
-        * The Third Prize of The 7th Internet+ Competition in Wuhan University, Wuhan University, 2021
-        * Outstanding Undergraduate Graduate, Wuhan University, 2021
-        * Guanghua Scholarship, Wuhan University, 2021
-        * The Second-class Scholarship, Wuhan University, 2020
-        * Merit Student, Wuhan University, 2020
-        * Honorable Mention of Mathematical Contest in Modeling, The Consortium for Mathematics and Its Application, 2020
-        * The Third Prize of Asia and Pacific Mathematical Contest in Modeling, Beijing Society of Image Graphics, 2019
-        * Zhizhuo Wang Innovative Scholarship, Wuhan University, 2019
-        * The First-class Scholarship, Wuhan University, 2019
-        * Merit Student, Wuhan University, 2019
-        * The Third Prize of Jingtian Cup (Automatic Driving Group) in World Robotics Competition, Chinese Mechanical Engineering Society, 2019
-        * The Third Prize of RoboCup China Open (Standard Platform Group), Chinese Association of Automation, 2019
-        * The First Prize of National Undergraduate Mathematics Competition, Chinese Mathematical Society, 2018
-        * The First Prize of Hubei Undergraduate Mathematics Competition, Hubei Mathematical Society, 2018
-        * Advanced Individual of Summer Social Practice, Wuhan University, 2018
-        * The Second-class Scholarship, Wuhan University, 2018
-        * Merit Student, Wuhan University, 2018
+  # - block: markdown
+  #   id: awards
+  #   content:
+  #     title: Awards
+  #     subtitle: ''
+  #     text: |-
+  #       * Outstanding Postgraduate Graduate, Wuhan University, 2024
+  #       * The First-class Scholarship, Wuhan University, 2023
+  #       * The First-class Postgraduate Freshmen Scholarship, Wuhan University, 2023
+  #       * The Second-class Scholarship, Wuhan University, 2022
+  #       * The Third Prize of The 7th Internet+ Competition in Wuhan University, Wuhan University, 2021
+  #       * Outstanding Undergraduate Graduate, Wuhan University, 2021
+  #       * Guanghua Scholarship, Wuhan University, 2021
+  #       * The Second-class Scholarship, Wuhan University, 2020
+  #       * Merit Student, Wuhan University, 2020
+  #       * Honorable Mention of Mathematical Contest in Modeling, The Consortium for Mathematics and Its Application, 2020
+  #       * The Third Prize of Asia and Pacific Mathematical Contest in Modeling, Beijing Society of Image Graphics, 2019
+  #       * Zhizhuo Wang Innovative Scholarship, Wuhan University, 2019
+  #       * The First-class Scholarship, Wuhan University, 2019
+  #       * Merit Student, Wuhan University, 2019
+  #       * The Third Prize of Jingtian Cup (Automatic Driving Group) in World Robotics Competition, Chinese Mechanical Engineering Society, 2019
+  #       * The Third Prize of RoboCup China Open (Standard Platform Group), Chinese Association of Automation, 2019
+  #       * The First Prize of National Undergraduate Mathematics Competition, Chinese Mathematical Society, 2018
+  #       * The First Prize of Hubei Undergraduate Mathematics Competition, Hubei Mathematical Society, 2018
+  #       * Advanced Individual of Summer Social Practice, Wuhan University, 2018
+  #       * The Second-class Scholarship, Wuhan University, 2018
+  #       * Merit Student, Wuhan University, 2018
 
-    design:
-      columns: '1'
+  #   design:
+  #     columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -181,31 +181,31 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Tool
-          tag: Tool
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  # - block: portfolio
+  #   id: projects
+  #   content:
+  #     title: Projects
+  #     filters:
+  #       folders:
+  #         - project
+  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #     default_button_index: 0
+  #     # Filter toolbar (optional).
+  #     # Add or remove as many filters (`filter_button` instances) as you like.
+  #     # To show all items, set `tag` to "*".
+  #     # To filter by a specific tag, set `tag` to an existing tag name.
+  #     # To remove the toolbar, delete the entire `filter_button` block.
+  #     buttons:
+  #       - name: All
+  #         tag: '*'
+  #       - name: Tool
+  #         tag: Tool
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: showcase
+  #     # For Showcase view, flip alternate rows?
+  #     flip_alt_rows: false
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -224,33 +224,33 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: collection
-    id: posts
-    content:
-      title: Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   - block: tag_cloud
     content:
       title: Popular Topics
